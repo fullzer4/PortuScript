@@ -1,0 +1,8 @@
+ALGORITIMO "2"
+VAR
+  num1, num2: inteiro
+INICIO
+    LEIA num1
+    LEIA num2
+    ESCREVA("A soma é:", num2)
+FIM

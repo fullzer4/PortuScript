@@ -1,0 +1,8 @@
+[package]
+name = "visualgCompiler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eval = "0.4.3"
+regex = "1.10.3"
